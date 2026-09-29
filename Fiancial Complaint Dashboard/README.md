@@ -1,4 +1,4 @@
-# ðŸ“£ Financial Consumer Complaints
+# Financial Consumer Complaints
 
 > **Question:** What patterns can be seen in the supplied consumer-complaint records across time, geography, products, and complaint topics?
 

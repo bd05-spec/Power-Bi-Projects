@@ -1,4 +1,4 @@
-# ðŸ¨ Hotel Performance Report
+# Hotel Performance Report
 
 > **Question:** What operational and commercial patterns can be explored in the hotel records included with this report?
 
@@ -19,8 +19,8 @@ flowchart LR
 
 The report has two main pages:
 
-- **KPI Summary Dashboard** â€” headline cards, a time-oriented area chart, a category chart, and slicers.
-- **Overview Dashboard** â€” geographic map and additional category breakdowns, including bar, treemap, and donut-style visuals.
+- **KPI Summary Dashboard** - headline cards, a time-oriented area chart, a category chart, and slicers.
+- **Overview Dashboard** - geographic map and additional category breakdowns, including bar, treemap, and donut-style visuals.
 
 ## Files
 

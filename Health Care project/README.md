@@ -1,4 +1,4 @@
-# ðŸ©º Healthcare Analysis Report
+# Healthcare Analysis Report
 
 > **Question:** How does the population represented in the report vary across healthcare-related demographic categories?
 

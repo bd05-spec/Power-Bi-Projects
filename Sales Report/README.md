@@ -1,4 +1,4 @@
-# ðŸ“Š Sales Overview Report
+# Sales Overview Report
 
 > **Question:** What sales patterns can be explored across product, customer, and geographic dimensions in the supplied Superstore sample?
 

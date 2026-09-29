@@ -1,4 +1,4 @@
-# ðŸ“± Meta Ads Performance
+# Meta Ads Performance
 
 > **Question:** How do the advertising measures represented in the supplied events, ads, campaigns, and users data compare across the Facebook and Instagram report pages?
 

@@ -1,4 +1,4 @@
-# ðŸ›¡ï¸ Insurance Risk & Claims Analysis
+# Insurance Risk & Claims Analysis
 
 > **Question:** What patterns in the supplied insurance-policy and claims fields can be explored across customer, policy, and outcome categories?
 
@@ -25,7 +25,7 @@ The report contains cards, donut and pie charts, clustered comparisons, a column
 
 | File | Role |
 | --- | --- |
-| [`Insurance Report.pbix`](<./Insurance Report.pbix>) | Power BI report titled â€œINSURANCE RISK & CLAIMS ANALYSIS.â€ |
+| [`Insurance Report.pbix`](<./Insurance Report.pbix>) | Power BI report titled "INSURANCE RISK & CLAIMS ANALYSIS." |
 | [`insurance_policies_data.xlsx`](<./insurance_policies_data.xlsx>) | Supporting insurance-policy data workbook. |
 
 ## Open and refresh
@@ -34,6 +34,6 @@ Open the PBIX with Power BI Desktop. To refresh from the accompanying Excel file
 
 ## Responsible interpretation
 
-- â€œRiskâ€ and â€œclaimsâ€ are broad dashboard labels; verify the model's actual measures and policy/claim field definitions before interpreting a visual as claim frequency, severity, loss ratio, or actuarial risk.
+- "Risk" and "claims" are broad dashboard labels; verify the model's actual measures and policy/claim field definitions before interpreting a visual as claim frequency, severity, loss ratio, or actuarial risk.
 - The workbook's source, time period, coverage, and definitions are not fully described in the project folder.
 - Dashboard associations are descriptive and do not establish causal drivers or insurance pricing recommendations.

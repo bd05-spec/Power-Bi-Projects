@@ -1,4 +1,4 @@
-# âœˆï¸ US Airline Routes, Fares & Performance
+# US Airline Routes, Fares & Performance
 
 > **Question:** How can the supplied US airline route and fare data be explored across airlines, airports, routes, geography, and price?
 
@@ -16,13 +16,13 @@ flowchart TD
     B --> G[Geographics dashboard]
 ```
 
-- **Overview Dashboard** â€” headline cards and high-level trend/distribution visuals.
-- **Route Analysis** â€” route-level comparisons, scatter and map views, and a detail table.
-- **Airport Insights** â€” airport comparisons with bar, line, and ribbon-style visuals.
-- **Airline Performance** â€” airline comparison cards, charts, and a table.
-- **Fare Insights** â€” fare comparisons using trend, distribution, and category charts.
-- **Geographics dashboard** â€” map and treemap views for geographic patterns.
-- **Home** â€” report navigation and introductory visuals.
+- **Overview Dashboard** - headline cards and high-level trend/distribution visuals.
+- **Route Analysis** - route-level comparisons, scatter and map views, and a detail table.
+- **Airport Insights** - airport comparisons with bar, line, and ribbon-style visuals.
+- **Airline Performance** - airline comparison cards, charts, and a table.
+- **Fare Insights** - fare comparisons using trend, distribution, and category charts.
+- **Geographics dashboard** - map and treemap views for geographic patterns.
+- **Home** - report navigation and introductory visuals.
 
 ## Files
 

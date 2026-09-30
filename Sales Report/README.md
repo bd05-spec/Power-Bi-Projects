@@ -1,5 +1,10 @@
 # Sales Overview Report
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** What sales patterns can be explored across product, customer, and geographic dimensions in the supplied Superstore sample?
 
 This Power BI project pairs a one-page sales report with the sample workbook used alongside it. The report presents summary cards, slicers, geographic views, category comparisons, and a table for drilling into the available records.

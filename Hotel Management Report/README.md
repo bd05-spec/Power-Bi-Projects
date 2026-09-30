@@ -1,5 +1,10 @@
 # Hotel Performance Report
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** What operational and commercial patterns can be explored in the hotel records included with this report?
 
 The Power BI project includes a KPI summary page and an overview page with geographic and category-based visuals. A separate hotel CSV is supplied for the model/data workflow.

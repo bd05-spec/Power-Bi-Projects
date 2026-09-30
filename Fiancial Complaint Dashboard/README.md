@@ -1,5 +1,10 @@
 # Financial Consumer Complaints
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** What patterns can be seen in the supplied consumer-complaint records across time, geography, products, and complaint topics?
 
 This Power BI project packages a report and a separate CSV of consumer complaint records. The report is designed to make complaint volume and mix easier to explore through summary cards, trend and category charts, a map, and interactive filters.

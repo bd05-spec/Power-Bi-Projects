@@ -1,5 +1,10 @@
 # Insurance Risk & Claims Analysis
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** What patterns in the supplied insurance-policy and claims fields can be explored across customer, policy, and outcome categories?
 
 This Power BI report organizes insurance risk and claims information into an interactive overview. The companion Excel file provides the supporting insurance-policy data.

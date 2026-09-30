@@ -1,5 +1,10 @@
 # US Airline Routes, Fares & Performance
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** How can the supplied US airline route and fare data be explored across airlines, airports, routes, geography, and price?
 
 This Power BI report organizes airline information into six analytical pages plus a home/navigation page. The dashboard is designed to help readers move from a broad overview to route, airport, airline, fare, and geographic perspectives.

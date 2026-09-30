@@ -1,5 +1,10 @@
 # Meta Ads Performance
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** How do the advertising measures represented in the supplied events, ads, campaigns, and users data compare across the Facebook and Instagram report pages?
 
 This Power BI report contains separate **Facebook** and **Instagram** pages. Each page uses KPI cards, charts, maps, tables, and slicers to make the platform-specific advertising data explorable.

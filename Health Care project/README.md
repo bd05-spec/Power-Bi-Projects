@@ -1,5 +1,10 @@
 # Healthcare Analysis Report
 
+![Project workflow overview](./project-overview.svg)
+
+> Workflow illustration only; it is not a dashboard screenshot or a source of measured results.
+
+
 > **Question:** How does the population represented in the report vary across healthcare-related demographic categories?
 
 This Power BI report presents a healthcare overview with a primary analysis page and tooltip pages for region, race, ethnicity, and preferred language. The accompanying Excel workbook supplies the report's project data.
